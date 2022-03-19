@@ -1,4 +1,4 @@
-dofile("./main_shade.lua")
+dofile("./color_core.lua")
 
 local spr = app.activeSprite
 if not spr then
